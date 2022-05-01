@@ -1,0 +1,59 @@
+
+{
+    "bot_config": {
+        "server_id": 7,
+        "logs": , 
+        "prefix": ".",
+        "token": "",
+        "twitch_channel": "",
+        "twitch_channel_2": ""
+    },
+    "tfollow": {
+        "Owner": 50,
+        "Premium": 920,
+        "Diamond": 550,
+        "Server Booster": 350,
+        "Gold": 350,
+        "Silver": 145,
+        "Bronze": 90,
+        "Member": 50
+    },
+    "tfriend": {
+        "Glock": 600,
+        "Premium": 480,
+        "Diamond ": 250,
+        "Server Booster": 120,
+        "Gold": 120,
+        "Silver": 50,
+        "Bronze": 25,
+        "Member": 5
+    },
+    "treport": {
+        "Glock": 600,
+        "Premium": 480,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "Member": 5
+    },
+    "tspam": {
+        "Glock": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15,
+        "spam_access": 5
+    },
+    "ttroll": {
+        "Glock": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "traid": {
+        "Glock": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    }
+}
